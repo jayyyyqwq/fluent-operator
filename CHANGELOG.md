@@ -1,5 +1,13 @@
 # Change Log
 
+## [3.12.0](https://github.com/fluent/fluent-operator/compare/v3.11.0...v3.12.0) (2026-10-29)
+
+
+### Features
+
+* **fluentbit:** add compress option to the forward output ([#2083](https://github.com/fluent/fluent-operator/issues/2083)) ([43c9b16](https://github.com/fluent/fluent-operator/commit/43c9b168aed53caaaa85aa2c093d8af96bccf6b6))
+* **fluentbit:** add flush interval options to the log_to_metrics filter ([#2084](https://github.com/fluent/fluent-operator/issues/2084)) ([3b19291](https://github.com/fluent/fluent-operator/commit/3b192917fb38c4eaa2b7c4fd999716706ff69b2c))
+
 ## [3.11.0](https://github.com/fluent/fluent-operator/compare/v3.10.1...v3.11.0) (2026-10-28)
 
 
